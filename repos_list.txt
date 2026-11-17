@@ -1,0 +1,135 @@
+facebook,react,Web Frameworks,Çok Başarılı
+vuejs,vue,Web Frameworks,Çok Başarılı
+vitejs,vite,Web Frameworks,Çok Başarılı
+thedaviddias,Front-End-Checklist,Web Frameworks,Çok Başarılı
+ionic-team,ionic-framework,Web Frameworks,Çok Başarılı
+dypsilon,frontend-dev-bookmarks,Web Frameworks,Başarılı
+expo,expo,Web Frameworks,Başarılı
+LeCoupa,awesome-cheatsheets,Web Frameworks,Başarılı
+NaiboWang,EasySpider,Web Frameworks,Başarılı
+GitHubDaily,GitHubDaily,Web Frameworks,Başarılı
+fastapi,full-stack-fastapi-template,Web Frameworks,Başarılı
+QuivrHQ,quivr,Web Frameworks,Başarılı
+xitu,gold-miner,Web Frameworks,Başarılı
+CorentinTh,it-tools,Web Frameworks,Başarılı
+mouredev,Hello-Python,Web Frameworks,Başarılı
+zauberzeug,nicegui,Web Frameworks,Gelişmekte
+marko-js,marko,Web Frameworks,Gelişmekte
+mdbootstrap,TW-Elements,Web Frameworks,Gelişmekte
+nhn,tui.calendar,Web Frameworks,Gelişmekte
+markmead,hyperui,Web Frameworks,Gelişmekte
+tachyons-css,tachyons,Web Frameworks,Gelişmekte
+The-Cool-Coders,Project-Ideas-And-Resources,Web Frameworks,Gelişmekte
+cs01,gdbgui,Web Frameworks,Gelişmekte
+helloqingfeng,Awsome-Front-End-learning-resource,Web Frameworks,Gelişmekte
+mdbootstrap,material-design-for-bootstrap,Web Frameworks,Gelişmekte
+huggingface,transformers,Machine Learning,Çok Başarılı
+pytorch,pytorch,Machine Learning,Çok Başarılı
+d2l-ai,d2l-zh,Machine Learning,Çok Başarılı
+labmlai,annotated_deep_learning_paper_implementations,Machine Learning,Çok Başarılı
+scikit-learn,scikit-learn,Machine Learning,Çok Başarılı
+keras-team,keras,Machine Learning,Çok Başarılı
+ultralytics,yolov5,Machine Learning,Çok Başarılı
+ageitgey,face_recognition,Machine Learning,Çok Başarılı
+deepfakes,faceswap,Machine Learning,Çok Başarılı
+OpenBB-finance,OpenBB,Machine Learning,Çok Başarılı
+ultralytics,ultralytics,Machine Learning,Başarılı
+apache,airflow,Machine Learning,Başarılı
+streamlit,streamlit,Machine Learning,Başarılı
+deepspeedai,DeepSpeed,Machine Learning,Başarılı
+gradio-app,gradio,Machine Learning,Başarılı
+ray-project,ray,Machine Learning,Başarılı
+LAION-AI,Open-Assistant,Machine Learning,Başarılı
+roboflow,supervision,Machine Learning,Başarılı
+paperless-ngx,paperless-ngx,Machine Learning,Başarılı
+microsoft,qlib,Machine Learning,Başarılı
+google-deepmind,sonnet,Machine Learning,Gelişmekte
+bigscience-workshop,petals,Machine Learning,Gelişmekte
+Netflix,metaflow,Machine Learning,Gelişmekte
+tflearn,tflearn,Machine Learning,Gelişmekte
+autogluon,autogluon,Machine Learning,Gelişmekte
+yzhao062,pyod,Machine Learning,Gelişmekte
+drivendataorg,cookiecutter-data-science,Machine Learning,Gelişmekte
+FMInference,FlexLLMGen,Machine Learning,Gelişmekte
+MorvanZhou,Reinforcement-learning-with-tensorflow,Machine Learning,Gelişmekte
+sktime,sktime,Machine Learning,Gelişmekte
+binhnguyennus,awesome-scalability,Backend Frameworks,Çok Başarılı
+appwrite,appwrite,Backend Frameworks,Çok Başarılı
+pocketbase,pocketbase,Backend Frameworks,Çok Başarılı
+LeCoupa,awesome-cheatsheets,Backend Frameworks,Çok Başarılı
+GitHubDaily,GitHubDaily,Backend Frameworks,Çok Başarılı
+fastapi,full-stack-fastapi-template,Backend Frameworks,Başarılı
+mouredev,Hello-Python,Backend Frameworks,Başarılı
+ashishps1,awesome-system-design-resources,Backend Frameworks,Başarılı
+Dokploy,dokploy,Backend Frameworks,Başarılı
+parse-community,parse-server,Backend Frameworks,Başarılı
+valeriansaliou,sonic,Backend Frameworks,Başarılı
+Sairyss,domain-driven-hexagon,Backend Frameworks,Başarılı
+heroiclabs,nakama,Backend Frameworks,Başarılı
+octobercms,october,Backend Frameworks,Başarılı
+encoredev,encore,Backend Frameworks,Başarılı
+nhost,nhost,Backend Frameworks,Gelişmekte
+hiteshchoudhary,apihub,Backend Frameworks,Gelişmekte
+get-convex,convex-backend,Backend Frameworks,Gelişmekte
+backend-br,vagas,Backend Frameworks,Gelişmekte
+andreasbm,web-skills,Backend Frameworks,Gelişmekte
+rowyio,rowy,Backend Frameworks,Gelişmekte
+sparckles,Robyn,Backend Frameworks,Gelişmekte
+techschool,simplebank,Backend Frameworks,Gelişmekte
+liyupi,codefather,Backend Frameworks,Gelişmekte
+amitshekhariitbhu,go-backend-clean-architecture,Backend Frameworks,Gelişmekte
+puppeteer,puppeteer,Developer Tools,Çok Başarılı
+hoppscotch,hoppscotch,Developer Tools,Çok Başarılı
+OpenHands,OpenHands,Developer Tools,Çok Başarılı
+localstack,localstack,Developer Tools,Çok Başarılı
+GitHubDaily,GitHubDaily,Developer Tools,Çok Başarılı
+streamlit,streamlit,Developer Tools,Çok Başarılı
+files-community,Files,Developer Tools,Çok Başarılı
+usebruno,bruno,Developer Tools,Başarılı
+appsmithorg,appsmith,Developer Tools,Başarılı
+koalaman,shellcheck,Developer Tools,Başarılı
+freeCodeCamp,devdocs,Developer Tools,Başarılı
+lapce,lapce,Developer Tools,Başarılı
+httpie,cli,Developer Tools,Başarılı
+agno-agi,agno,Developer Tools,Başarılı
+CorentinTh,it-tools,Developer Tools,Başarılı
+Pythagora-io,gpt-pilot,Developer Tools,Başarılı
+refinedev,refine,Developer Tools,Başarılı
+gruntwork-io,terragrunt,Developer Tools,Gelişmekte
+httpie,http-prompt,Developer Tools,Gelişmekte
+voidcosmos,npkill,Developer Tools,Gelişmekte
+insidegui,WWDC,Developer Tools,Gelişmekte
+karatelabs,karate,Developer Tools,Gelişmekte
+Automattic,harper,Developer Tools,Gelişmekte
+donnemartin,gitsome,Developer Tools,Gelişmekte
+sweepai,sweep,Developer Tools,Gelişmekte
+iib0011,omni-tools,Developer Tools,Gelişmekte
+Raathigesh,majestic,Developer Tools,Gelişmekte
+flutter,flutter,Mobile Development,Çok Başarılı
+facebook,react-native,Mobile Development,Çok Başarılı
+Solido,awesome-flutter,Mobile Development,Çok Başarılı
+ionic-team,ionic-framework,Mobile Development,Çok Başarılı
+expo,expo,Mobile Development,Çok Başarılı
+nolimits4web,swiper,Mobile Development,Çok Başarılı
+fastlane,fastlane,Mobile Development,Çok Başarılı
+jondot,awesome-react-native,Mobile Development,Çok Başarılı
+AvaloniaUI,Avalonia,Mobile Development,Başarılı
+youzan,vant,Mobile Development,Başarılı
+dotnet,maui,Mobile Development,Başarılı
+matomo-org,matomo,Mobile Development,Başarılı
+liriliri,eruda,Mobile Development,Başarılı
+alibaba,weex,Mobile Development,Başarılı
+framework7io,framework7,Mobile Development,Başarılı
+Tencent,vConsole,Mobile Development,Başarılı
+realm,realm-swift,Mobile Development,Başarılı
+ElemeFE,mint-ui,Mobile Development,Başarılı
+AlloyTeam,Mars,Mobile Development,Gelişmekte
+ctf-wiki,ctf-wiki,Mobile Development,Gelişmekte
+didi,chameleon,Mobile Development,Gelişmekte
+sensepost,objection,Mobile Development,Gelişmekte
+Tencent,Hippy,Mobile Development,Gelişmekte
+alibaba,rax,Mobile Development,Gelişmekte
+antvis,F2,Mobile Development,Gelişmekte
+uber,RIBs,Mobile Development,Gelişmekte
+davidjerleke,embla-carousel,Mobile Development,Gelişmekte
+BasedHardware,omi,Mobile Development,Gelişmekte
